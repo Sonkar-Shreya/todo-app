@@ -1,0 +1,35 @@
+body{
+	height=100px;
+	
+	background-color: lightblue;
+	display: flex;
+	justify-content: center;
+	margin-top: 30px;
+
+
+}
+#mainBox{
+	height: 70%;
+	width: 50%;
+	background-color: cornsilk;
+	
+}
+#inputBox{
+	
+	
+	height: 60px;
+	background-color: darkgray;
+	display: flex;
+	justify-content: space-around;
+	padding: 10px;
+}
+#inputArea{
+	width: 540px;
+}
+#addButton{
+	width: 100px;
+}
+#todolist{
+	height: 600px;
+	background-color: honeydew;
+}	
